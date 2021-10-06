@@ -3,15 +3,19 @@
   "version": "5.0.0",
   "private": true,
   "dependencies": {
-    "@mui/material": "latest",
     "@mui/lab": "latest",
+    "@mui/material": "latest",
     "@mui/styled-engine-sc": "latest",
     "@testing-library/jest-dom": "latest",
     "@testing-library/react": "latest",
     "@testing-library/user-event": "latest",
+    "axios": "^0.22.0",
     "react": "latest",
     "react-dom": "latest",
+    "react-redux": "^7.2.5",
     "react-scripts": "latest",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0",
     "styled-components": "latest"
   },
   "scripts": {
